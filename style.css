@@ -1,0 +1,31 @@
+body{
+    background-image: url(./download.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1200px;
+}
+img{
+    border-radius: 7px;
+    height: 400px;
+   
+}
+.container{
+     display: flex;
+     margin: 250px;
+    
+}
+.section{
+    background-color:rgba(255, 182, 193, 0.738);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 100px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+} 
+h1{
+    font-size: 40px;
+    text-shadow: 2px 2px black;
+}
+h3{
+    text-shadow: 2px 2px black;
+   margin-bottom: 20px;
+}
